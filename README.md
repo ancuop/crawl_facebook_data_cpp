@@ -7,4 +7,5 @@ TODO:
   - Write to elastic search
   
 REFERENCE:
-  - Base on examples of curl
+  - [python reference](https://github.com/minimaxir/facebook-page-post-scraper)
+  - [curl](https://curl.haxx.se/libcurl/c/example.html)
